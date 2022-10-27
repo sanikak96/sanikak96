@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sanika
-- 👀 I’m interested in Data Science projects
+- 👀 I’m interested in Computer Science projects
 - 👩🏼‍🎓 I’m currently pursuing my Master's in Computer Science at University College Dublin
-- 👩🏻‍💻 I'm looking for full-time job opportunities in the Data Science and Machine Learning field 
+- 👩🏻‍💻 I'm looking for full-time job opportunities in the Data Science, Machine Learning or Software Engineering field 
 - 📫 Reach out to me on my email id: sanika.kulkarni@ucdconnect.ie
 
 <!---
